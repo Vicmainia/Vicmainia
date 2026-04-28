@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Web Developer & Cybersecurity Student 👨‍💻
+
+I build modern, responsive web applications using React and Tailwind CSS while learning how to secure them.
+
+Studying Cybersecurity at university — passionate about web security, ethical hacking, and writing clean, safe code.
+
+Always open to interesting projects and collaborations
+
 <!--
 **Vicmainia/Vicmainia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
